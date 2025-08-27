@@ -1,8 +1,8 @@
-##Introduction
+## Introduction
 - To follow the lab, at least you need to have a kali linux VM or any linux OS. Most of the tool that is used for the lab is easier to be setup on linux rather than windows. You can used WSL but I cannot guarantee 100% it will suitable thorughout the lab.
 - In this lab I assume you have a good foundation of cyber security and linux knowledge. If you are first timer or a novice, it is better to look for other lab.
 
-##Prerequisite
+## Prerequisite
 Install the following utilities through your kali linux terminal:
 
 1. Python3 pip library tools
@@ -44,7 +44,7 @@ No user sessions are running outdated binaries.
 No VM guests are running outdated hypervisor (qemu) binaries on this host.
 ```
 
-##Volatility
+## Volatility
 In kali linux terminal type the following command to download volatility tool.
 ```
 ~# cd Documents
