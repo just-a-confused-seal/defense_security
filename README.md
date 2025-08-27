@@ -12,6 +12,8 @@ For preparations, it is best to look into the folder 01-Introduction to prepare 
 ⚠️ This material is for educational and authorized testing only. Exploiting systems without permission is illegal.
 
 ## To do list
+[] Write up Lab prepartion - 01-introduction
+
 [] Write up lab malware - volatility
 
 [] Write up lab email incident response
