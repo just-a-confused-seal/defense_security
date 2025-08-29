@@ -14,7 +14,7 @@ For preparations, it is best to look into the folder 01-Introduction to prepare 
 ## To do list
 [X] Write up Lab prepartion for volatility - 01-introduction
 
-[] Write up lab malware - volatility
+[X] Write up lab malware - volatility
 
 [] Write up lab email incident response
 
