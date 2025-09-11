@@ -16,7 +16,7 @@ For preparations, it is best to look into the folder 01-Introduction to prepare 
 
 [X] Write up lab malware - volatility
 
-[] Write up lab email incident response
+[X] Write up lab email incident response
 
 [] Write up lab web backdoor - obfuscation
 
