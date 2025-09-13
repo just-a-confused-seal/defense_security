@@ -2,7 +2,7 @@
 This lab will go through some basic on how to do analysis on email phishing.
 
 ## Lab 01 - Volatility & PGP email (FwordCTF)
-Download memory dump from https://drive.google.com/file/d/1OqrNosho2yYFSu05sNKamQ1VeQcDzRVn/view, some context on the email phishing:
+Download memory dump from https://drive.google.com/file/d/1GtUAMM_vtN0JE_Qmseya0lYKK4l544bN/view?usp=drive_link, some context on the email phishing:
 ```
 Semah was having some cryptography lessons, but while learning he encrypted his file, but since he followed the steps of his teacher, he contacted him but he admitted that he didn’t receive an answer although the teacher told him that he gave him everything he needs. So as our group, we are sending you to help him out.
 
