@@ -8,40 +8,6 @@ Install the following utilities through your kali linux terminal:
 1. Python3 pip library tools
 ```
 ~# sudo apt install python3-pip
-[sudo] password for kali: 
-Upgrading:                      
-  python3-pip  python3-pip-whl
-
-Summary:
-  Upgrading: 2, Installing: 0, Removing: 0, Not Upgrading: 699
-  Download size: 2,814 kB
-  Freed space: 433 kB
-
-Continue? [Y/n] y
-Get:1 http://http.kali.org/kali kali-rolling/main amd64 python3-pip all 25.2+dfsg-1 [1,386 kB]
-Get:2 http://http.kali.org/kali kali-rolling/main amd64 python3-pip-whl all 25.2+dfsg-1 [1,428 kB]
-Fetched 2,814 kB in 2s (1,219 kB/s)        
-(Reading database ... 423342 files and directories currently installed.)
-Preparing to unpack .../python3-pip_25.2+dfsg-1_all.deb ...
-Unpacking python3-pip (25.2+dfsg-1) over (25.1.1+dfsg-1) ...
-Preparing to unpack .../python3-pip-whl_25.2+dfsg-1_all.deb ...
-Unpacking python3-pip-whl (25.2+dfsg-1) over (25.1.1+dfsg-1) ...
-Setting up python3-pip-whl (25.2+dfsg-1) ...
-Setting up python3-pip (25.2+dfsg-1) ...
-Processing triggers for man-db (2.13.1-1) ...
-Processing triggers for kali-menu (2025.2.7) ...
-Scanning processes...                                                                               
-Scanning linux images...                                                                            
-
-Running kernel seems to be up-to-date.
-
-No services need to be restarted.
-
-No containers need to be restarted.
-
-No user sessions are running outdated binaries.
-
-No VM guests are running outdated hypervisor (qemu) binaries on this host.
 ```
 
 ## Volatility
